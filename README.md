@@ -1,0 +1,2 @@
+# nothesaplama
+Not Hesaplama
